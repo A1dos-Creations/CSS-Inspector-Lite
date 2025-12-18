@@ -1,5 +1,3 @@
-# CSS-Inspector-Lite Privacy Policy
-
 # Privacy Policy – CSS Inspector Lite
 
 **Effective Date:** December 17, 2025
